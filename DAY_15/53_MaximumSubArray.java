@@ -1,4 +1,4 @@
-package Sugasri_HOPE_Batch_1.DAY_15.VsCode;
+package Sugasri_HOPE_Batch_1.DAY_15;
 
 class Solution {
     public int maxSubArray(int[] arr) {
